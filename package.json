@@ -1,0 +1,12 @@
+{
+  "name": "zenvy",
+  "version": "1.0.0",
+  "description": "zenvy backend ",
+  "license": "ISC",
+  "author": "Muhammad Ahmed",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
